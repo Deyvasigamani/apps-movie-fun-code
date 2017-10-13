@@ -11,6 +11,5 @@ inputs:
 
 outputs:
 - name: package-output
-
 run:
   path: movie-fun/ci/package.sh
