@@ -5,7 +5,6 @@ resources:
   source:
     uri: https://github.com/Deyvasigamani/apps-movie-fun-code  #<---- REPLACE ME
     branch: spring-boot
-
 - name: deploy-movie-fun
   type: cf
   source:
