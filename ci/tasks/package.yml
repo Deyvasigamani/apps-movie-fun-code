@@ -6,7 +6,6 @@ image_resource:
   source:
     repository: java
     tag: "8"
-
 inputs:
 - name: movie-fun
 
