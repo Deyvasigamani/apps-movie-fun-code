@@ -17,8 +17,6 @@ resources:
     skip_cert_check: true
 
 jobs:
-
-
 - name: deploy
   public: true
   plan:
